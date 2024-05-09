@@ -7,11 +7,11 @@ load_dotenv()
 API_ID = int(getenv("API_ID", 21989020))
 API_HASH = getenv("API_HASH", "3959305ae244126404702aa5068ba15c")
 BOT_TOKEN = getenv("BOT_TOKEN", None)
-OWNER_ID = int(getenv("OWNER_ID", 6329058409))
+OWNER_ID = int(getenv("OWNER_ID", 6642500472))
 MONGO_URL = getenv("MONGO_URL", None)
-SUPPORT_GRP = getenv("SUPPORT_GRP", "KaisenWorld")
+SUPPORT_GRP = getenv("SUPPORT_GRP", "FRIENDGrrOUP")
 UPDATE_CHNL = getenv("UPDATE_CHNL", "XovaAssociation")
-OWNER_USERNAME = getenv("OWNER_USERNAME", "llxHKxll")
+OWNER_USERNAME = getenv("OWNER_USERNAME", "SABKA_BAAP_SOHAM001")
 
 # Random Start Images
 IMG = [
@@ -60,9 +60,9 @@ IMG = [
 
 # Random Stickers
 STICKER = [
-    "CAACAgQAAxkBAALRi2NZXUgjZCT775L5Nr0XrLbQ6XIpAAK_EQACpvFxHq2xh5JRVJNrKgQ",
-    "CAACAgQAAxkBAALRjGNZXUs6YPggISBdtg4nXaU0vjNzAALqCwACbCIRU61ZQKi3F88DKgQ",
-    "CAACAgQAAxkBAALRjWNZXUvETcfHR2Yi9ftTQLLP2uD8AAIVDAAC1SMQU-QrCHEcbz8rKgQ",
+    "CAACAgUAAxkBAAJkTWY8xw4ECE0BFmV522Yg7bOt3CXJAAKHAwACRzSwVBr4GwnOIxVZNQQ",
+    "CAACAgUAAxkBAAJkUWY8xxyAqXBsmNvWs23JC2A6OemTAAIKBQACJ1-wVBW6nNZ2ok2CNQQ",
+    "CAACAgUAAxkBAAJkVWY8xyXekzKO32ErEtWRyk_gz-LmAAMGAAKiQLBUpWZXqDkizw41BA",
 ]
 
 
@@ -70,7 +70,7 @@ EMOJIOS = [
     "💣",
     "💥",
     "🪄",
-    "🧨",
+    "🙄",
     "⚡",
     "🌲",
     "👻",
