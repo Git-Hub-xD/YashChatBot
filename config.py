@@ -7,11 +7,11 @@ load_dotenv()
 API_ID = int(getenv("API_ID", 21989020))
 API_HASH = getenv("API_HASH", "3959305ae244126404702aa5068ba15c")
 BOT_TOKEN = getenv("BOT_TOKEN", None)
-OWNER_ID = int(getenv("OWNER_ID", 6642500472))
+OWNER_ID = int(getenv("OWNER_ID", 5443897412))
 MONGO_URL = getenv("MONGO_URL", None)
-SUPPORT_GRP = getenv("SUPPORT_GRP", "FRIENDGrrOUP")
+SUPPORT_GRP = getenv("SUPPORT_GRP", "KaisenWorld")
 UPDATE_CHNL = getenv("UPDATE_CHNL", "XovaAssociation")
-OWNER_USERNAME = getenv("OWNER_USERNAME", "SABKA_BAAP_SOHAM001")
+OWNER_USERNAME = getenv("OWNER_USERNAME", "@XovaAssociation")
 
 # Random Start Images
 IMG = [
